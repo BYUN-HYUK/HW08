@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_BigCoinItem.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_HealingItem.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_MineItem.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_SamllCoinItem.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Fab/Cube_World_Powerup_Coin_-_Proto_Series/cube_mat.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Fab/Cube_World_Powerup_Coin_-_Proto_Series/cube_world_powerup_coin_proto_series.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Fab/Cube_World_Powerup_Coin_-_Proto_Series/cube_world_powerup_coin_proto_series_texture_0.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YP/RPVMJTFFJ12BUXXB06EXAP.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DZ/Q8OJT4RHP4VUSIX1D0S0L8.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2M/NTFA45IIIH8IL7QNYFSBPR.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/O9/IVBTIYPVVQQEQNOEH03JKV.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_SpawnVolume.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Resources/Maps/BasicLevel.umap",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/NewDataTable.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_SpartaGameMode.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Ui/Widget/WBP_HUD.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_SpartaCharacter.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Input/IA_Move.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Input/IA_Look.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Input/IA_Jump.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Input/IMC_Character.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Input/IA_Sprint.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/BP_SpartaPlayerController.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/ABP_Sparta.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Ui/Widget/WBP_MainMenu.uasset",
+				"C:/Users/admin/Documents/Unreal Projects/MyProject2/Content/Resources/Maps/MenuLevel.umap"
+			]
+		}
+	]
+}
